@@ -4,7 +4,7 @@ public class Test_Hellow
 {
 	public static void main(String[] args)
 	{
-		System.out.println("say Hellow");
+		System.out.println("om namah shivaya");
 		
 	}
 
