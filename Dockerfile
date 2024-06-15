@@ -1,5 +1,5 @@
 FROM openjdk
 WORKDIR /app
 COPY . /app
-RUN javac Test9.java
-CMD [ "java","Test9" ]
+RUN javac Test_Hellow.java
+CMD [ "java","Test_Hellow" ]
